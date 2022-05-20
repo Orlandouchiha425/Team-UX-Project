@@ -1,5 +1,7 @@
+import SearchBar from "../../components/SearchBar/SearchBar";
+
 export default function CreateProject(){
     return(
-        <h1>This is the CreateProject page</h1>
+        <SearchBar />
     )
 }
